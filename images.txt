@@ -1,1 +1,1 @@
-mysql
+postgres:13.15-bullseye
