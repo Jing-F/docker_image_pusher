@@ -1,1 +1,1 @@
-postgres:13.15-bullseye
+ghcr.io/ollama-webui/ollama-webui
