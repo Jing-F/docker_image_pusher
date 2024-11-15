@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/open-webui/open-webui:main
+stawky/m3e-large-api:latest
