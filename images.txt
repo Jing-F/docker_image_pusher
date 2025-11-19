@@ -1,1 +1,1 @@
-wechatopenai/weknora-docreader:latest
+bladex/sentinel-dashboard:1.8.8
