@@ -1,1 +1,1 @@
-ubuntu:22.04
+bladex/sentinel-dashboard:1.8.8
